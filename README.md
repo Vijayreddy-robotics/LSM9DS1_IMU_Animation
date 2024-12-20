@@ -4,7 +4,7 @@
 
 LSM9DS1 IMU for attitude measurements
 
-Wireless: telimetry, wifi or wired USB communication: to transfer data to the local computer
+Wireless: telemetry, wifi or wired USB communication: to transfer data to the local computer
 
 Board: Raspberry pi or custom pcb MCU to get data from the IMU and send to the computer
 
