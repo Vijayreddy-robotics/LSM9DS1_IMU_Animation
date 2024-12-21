@@ -19,3 +19,9 @@ Watch the full video on [Attitude Estimation using IMU](https://www.youtube.com/
 
 LSM9DS1 IMU [datasheet](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf)
 
+Breakout board
+
+ ![me](https://github.com/Vijayreddy-robotics/LSM9DS1_IMU_Animation/blob/main/13284-03.jpg)
+
+ Use [LSM9DS1 Ardunio Library](https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library) for additional information.
+
