@@ -13,7 +13,7 @@ Local computer : to perform animations and filter operations
 
 Watch the full video on [Attitude Estimation using IMU](https://www.youtube.com/watch?v=zUcBC5KvV0Q)
 
-![me](https://github.com/Vijayreddy-robotics/LSM9DS1_IMU_Animation/blob/main/IMU%20animation.gif)
+![me](https://github.com/Vijayreddy-robotics/LSM9DS1_IMU_Animation/blob/main/IMUanimation.gif)
 
 ## Additional information
 
